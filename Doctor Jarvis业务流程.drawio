@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T12:51:10.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="GPr4jojoRvsoBY7XQPfq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T13:26:31.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VstUfoa-nYUPb79EioiW" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9ISkq14de3Jm-eel3zcI">
-    <mxGraphModel>
+    <mxGraphModel dx="1008" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vu4yUY0Qid5626QOMicD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vu4yUY0Qid5626QOMicD-1" target="vu4yUY0Qid5626QOMicD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-1" value="基因疾病预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vu4yUY0Qid5626QOMicD-2" target="vu4yUY0Qid5626QOMicD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-2" value="日常监测（手环）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vu4yUY0Qid5626QOMicD-4" target="vu4yUY0Qid5626QOMicD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-4" value="AI疾病实时预测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vu4yUY0Qid5626QOMicD-13" target="vu4yUY0Qid5626QOMicD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-13" value="私人AI诊疗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vu4yUY0Qid5626QOMicD-15" target="vu4yUY0Qid5626QOMicD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-15" value="AI药物定制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vu4yUY0Qid5626QOMicD-17" value="药物配送" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,9 +1,200 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T09:30:51.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="OIbaAcWcCCu8q1mCJ4DE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T10:41:34.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VR3brNSKomFvJCO-o-MC" version="21.5.0" type="github">
   <diagram name="第 1 页" id="9oxFwIxjs5UT7jZF00LQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1551" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MZCKFRt412MDe5l76vAm-2" value="机械设计领域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-2" target="MZCKFRt412MDe5l76vAm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="230" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="308" />
+              <mxPoint x="190" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-2" target="MZCKFRt412MDe5l76vAm-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="230" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="308" />
+              <mxPoint x="190" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-10" value="当前CAD软件限制机械设计思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-11" value="可视化难度高，干扰机械设计思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-2" target="MZCKFRt412MDe5l76vAm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="308" />
+              <mxPoint x="190" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-14" value="建模较复杂，时间资源浪费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-2" target="MZCKFRt412MDe5l76vAm-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="308" />
+              <mxPoint x="190" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-10" target="MZCKFRt412MDe5l76vAm-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="386" y="306" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-12" value="初学人群难以上手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-12" target="MZCKFRt412MDe5l76vAm-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-14" target="MZCKFRt412MDe5l76vAm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-24" value="提供多种机械设计思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-25" value="快速可视化设计思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-26" value="降低机械建模软件上手难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-27" value="简化建模难度，减少时间资源浪费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-28" value="降低建模难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-26" target="MZCKFRt412MDe5l76vAm-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-30" value="降低建模难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-27" target="MZCKFRt412MDe5l76vAm-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-32" value="降低建模难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-25" target="MZCKFRt412MDe5l76vAm-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-34" value="提供多种机械设计方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-24" target="MZCKFRt412MDe5l76vAm-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-36" value="基于模型上下文信息与位姿、载荷需求，结合语言模型，使用创成式设计快速建模多种设计方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="250" width="180" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-37" value="机器学习辅助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-40" value="创成式设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-34" target="MZCKFRt412MDe5l76vAm-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="250" as="sourcePoint" />
+            <mxPoint x="780" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-40" target="MZCKFRt412MDe5l76vAm-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="400" as="sourcePoint" />
+            <mxPoint x="840" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="200" />
+              <mxPoint x="900" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-37" target="MZCKFRt412MDe5l76vAm-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="410" as="sourcePoint" />
+            <mxPoint x="990" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="350" />
+              <mxPoint x="900" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-30" target="MZCKFRt412MDe5l76vAm-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="520" as="sourcePoint" />
+            <mxPoint x="870" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-28" target="MZCKFRt412MDe5l76vAm-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="530" as="sourcePoint" />
+            <mxPoint x="870" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="420" />
+              <mxPoint x="720" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZCKFRt412MDe5l76vAm-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-32" target="MZCKFRt412MDe5l76vAm-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="530" as="sourcePoint" />
+            <mxPoint x="960" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="270" />
+              <mxPoint x="720" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

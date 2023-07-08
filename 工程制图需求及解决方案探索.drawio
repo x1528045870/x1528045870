@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T10:43:19.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jai0xagOlCmulBHnXkh6" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T10:46:38.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PR5ccMXN0RmVWo61hDMn" version="21.5.0" type="github">
   <diagram name="第 1 页" id="9oxFwIxjs5UT7jZF00LQ">
     <mxGraphModel dx="1551" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
             <mxPoint x="480" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZCKFRt412MDe5l76vAm-36" value="基于模型上下文信息与位姿、载荷需求，结合语言模型，使用创成式设计快速建模多种设计方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZCKFRt412MDe5l76vAm-36" value="基于上下文模型与约束、负载需求，结合语言模型，使用创成式设计快速建模多种设计方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="250" width="180" height="116" as="geometry" />
         </mxCell>
         <mxCell id="MZCKFRt412MDe5l76vAm-37" value="机器学习辅助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

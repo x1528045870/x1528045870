@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T10:46:38.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PR5ccMXN0RmVWo61hDMn" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T11:13:51.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dnldhkEq0ZgN1VNXx29k" version="21.5.0" type="github">
   <diagram name="第 1 页" id="9oxFwIxjs5UT7jZF00LQ">
-    <mxGraphModel dx="1551" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
         <mxCell id="MZCKFRt412MDe5l76vAm-26" value="降低机械建模软件上手难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MZCKFRt412MDe5l76vAm-27" value="简化建模难度，减少时间资源浪费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZCKFRt412MDe5l76vAm-27" value="降低建模难度，减少时间资源浪费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZCKFRt412MDe5l76vAm-28" value="降低建模难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
             <mxPoint x="480" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZCKFRt412MDe5l76vAm-32" value="降低建模难度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZCKFRt412MDe5l76vAm-32" value="减少建模时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZCKFRt412MDe5l76vAm-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZCKFRt412MDe5l76vAm-25" target="MZCKFRt412MDe5l76vAm-32">

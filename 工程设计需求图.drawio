@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T11:28:28.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lt9ag3ErOn_cdDSCVxn1" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T13:43:19.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yXAuw7L7wzbJ_lxlhgRM" version="21.6.1" type="github">
   <diagram name="第 1 页" id="B0S4sWDJ5THNqiTK3_nA">
-    <mxGraphModel dx="1835" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,28 +104,166 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-1" value="Exploration of problems in engineering design field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="-130" width="180" height="90" as="geometry" />
+          <mxGeometry x="-770" y="-189" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-2" target="p9KMRt8h-OHR_Q1KVFsD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-2" value="Interview, literature research, demand exploration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-130" width="180" height="90" as="geometry" />
+          <mxGeometry x="-550" y="-189" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-3" target="p9KMRt8h-OHR_Q1KVFsD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-3" value="Questionnaire research, demand exploration and verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="-130" width="180" height="90" as="geometry" />
+          <mxGeometry x="-340" y="-189" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-4" target="p9KMRt8h-OHR_Q1KVFsD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-4" value="Definition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="-130" width="180" height="90" as="geometry" />
+          <mxGeometry x="-117" y="-189" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9KMRt8h-OHR_Q1KVFsD-5" value="brainstorm, literature research to develop solutions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102" y="-130" width="180" height="90" as="geometry" />
+          <mxGeometry x="102" y="-189" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-14" target="p9KMRt8h-OHR_Q1KVFsD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-14" target="p9KMRt8h-OHR_Q1KVFsD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-14" target="p9KMRt8h-OHR_Q1KVFsD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-14" target="p9KMRt8h-OHR_Q1KVFsD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mechanical design field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1229" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-16" target="p9KMRt8h-OHR_Q1KVFsD-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Generative design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1569" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-18" target="p9KMRt8h-OHR_Q1KVFsD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Time-consuming modeling process&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1309" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-20" target="p9KMRt8h-OHR_Q1KVFsD-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI Aid&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1439" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-22" target="p9KMRt8h-OHR_Q1KVFsD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Can&#39;t display ideas quickly&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1439" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-24" target="p9KMRt8h-OHR_Q1KVFsD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ideas are limited by CAD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1569" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-26" target="p9KMRt8h-OHR_Q1KVFsD-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Steep learning curve&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1179" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-28" target="p9KMRt8h-OHR_Q1KVFsD-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;complex modeling methods&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1309" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-30" target="p9KMRt8h-OHR_Q1KVFsD-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Quickly visualize ideas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1439" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-32" target="p9KMRt8h-OHR_Q1KVFsD-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;More design ideas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1569" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-34" target="p9KMRt8h-OHR_Q1KVFsD-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;complex modeling logic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1179" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-36" target="p9KMRt8h-OHR_Q1KVFsD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Reduce modeling time&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="1439" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-38" target="p9KMRt8h-OHR_Q1KVFsD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;More design solutions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="1569" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-40" target="p9KMRt8h-OHR_Q1KVFsD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Reduce modeling difficulty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="1259" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM Generative Design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1471" width="257.59" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-43" target="p9KMRt8h-OHR_Q1KVFsD-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mechanical Design Field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-45" target="p9KMRt8h-OHR_Q1KVFsD-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Interview, literature research&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-47" target="p9KMRt8h-OHR_Q1KVFsD-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Questionnaire research&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-49" target="p9KMRt8h-OHR_Q1KVFsD-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mechanical design requirements definition&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;brainstorm, literature research&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Demand&amp;nbsp; Verification&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Demand&amp;nbsp; Exploration&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Problem Exploration&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="1100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Problem Defination&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="1100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Solution Development&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="1100" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,104 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T11:06:00.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N1wNqerRJt0Px146YY1y" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T11:28:28.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lt9ag3ErOn_cdDSCVxn1" version="21.6.1" type="github">
   <diagram name="第 1 页" id="B0S4sWDJ5THNqiTK3_nA">
-    <mxGraphModel dx="2843" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-35">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-42">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-45">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-41">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-33" target="CM4tmKmZZlN-P_1D_GaO-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-33" value="Mechanical design field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-33" value="Mechanical design field" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="50" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-34" target="CM4tmKmZZlN-P_1D_GaO-78">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-34" target="CM4tmKmZZlN-P_1D_GaO-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-34" value="Generative design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-34" value="Generative design" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="102" y="390" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-35" target="CM4tmKmZZlN-P_1D_GaO-53">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-35" target="CM4tmKmZZlN-P_1D_GaO-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-35" value="The modeling is complicated and the time and resources are wasted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-35" value="The modeling is complicated and the time and resources are wasted" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="130" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-36" target="CM4tmKmZZlN-P_1D_GaO-78">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-36" target="CM4tmKmZZlN-P_1D_GaO-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-36" value="AI Aid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-36" value="AI Aid" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="102" y="260" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-41" target="CM4tmKmZZlN-P_1D_GaO-54">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-41" target="CM4tmKmZZlN-P_1D_GaO-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-41" value="Visualization is difficult which interferes mechanical design ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-41" value="Visualization is difficult which interferes mechanical design ideas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="260" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-42" target="CM4tmKmZZlN-P_1D_GaO-55">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-42" target="CM4tmKmZZlN-P_1D_GaO-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-42" value="Current CAD software limits the idea of mechanical design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-42" value="Current CAD software limits the idea of mechanical design" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="390" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-45" target="CM4tmKmZZlN-P_1D_GaO-56">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-45" target="CM4tmKmZZlN-P_1D_GaO-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-45" value="Steep learning curve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-45" value="Steep learning curve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-53" target="CM4tmKmZZlN-P_1D_GaO-64">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-53" target="CM4tmKmZZlN-P_1D_GaO-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-53" value="Reduce the modeling difficulty, reduce the waste of time and resources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-53" value="Reduce the modeling difficulty, reduce the waste of time and resources" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="130" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-54" target="CM4tmKmZZlN-P_1D_GaO-61">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-54" target="CM4tmKmZZlN-P_1D_GaO-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-54" value="Quickly visualize design ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-54" value="Quickly visualize design ideas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="260" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-55" target="CM4tmKmZZlN-P_1D_GaO-62">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-55" target="CM4tmKmZZlN-P_1D_GaO-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-55" value="Provide a variety of mechanical design ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-55" value="Provide a variety of mechanical design ideas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="390" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-56" target="CM4tmKmZZlN-P_1D_GaO-64">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-56" target="CM4tmKmZZlN-P_1D_GaO-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-56" value="Reduce the difficulty of mechanical modeling software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-56" value="Reduce the difficulty of mechanical modeling software" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-61" target="CM4tmKmZZlN-P_1D_GaO-36">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-61" target="CM4tmKmZZlN-P_1D_GaO-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-61" value="Reduce modeling time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-61" value="Reduce modeling time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-117" y="260" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-62" target="CM4tmKmZZlN-P_1D_GaO-34">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-62" target="CM4tmKmZZlN-P_1D_GaO-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-62" value="Provide a variety of mechanical design solutions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-62" value="Provide a variety of mechanical design solutions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-117" y="390" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CM4tmKmZZlN-P_1D_GaO-64" target="CM4tmKmZZlN-P_1D_GaO-36">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CM4tmKmZZlN-P_1D_GaO-64" target="CM4tmKmZZlN-P_1D_GaO-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-64" value="Reduce modeling difficulty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-64" value="Reduce modeling difficulty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-117" y="80" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CM4tmKmZZlN-P_1D_GaO-78" value="Based on context model, constraint and load requirement, combined with language model, generative design is used to quickly model multiple design schemes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CM4tmKmZZlN-P_1D_GaO-78" value="Based on context model, constraint and load requirement, combined with language model, generative design is used to quickly model multiple design schemes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="292" width="257.59" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-1" target="p9KMRt8h-OHR_Q1KVFsD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-1" value="Exploration of problems in engineering design field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-2" target="p9KMRt8h-OHR_Q1KVFsD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-2" value="Interview, literature research, demand exploration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-3" target="p9KMRt8h-OHR_Q1KVFsD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-3" value="Questionnaire research, demand exploration and verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9KMRt8h-OHR_Q1KVFsD-4" target="p9KMRt8h-OHR_Q1KVFsD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-4" value="Definition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-117" y="-130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9KMRt8h-OHR_Q1KVFsD-5" value="brainstorm, literature research to develop solutions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="-130" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

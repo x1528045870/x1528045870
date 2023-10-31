@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T17:58:46.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="22.0.8" etag="C1CjYiVsV9_aGvJDhkkr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T18:41:33.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oS7o9e5uKDDKzvnsDe7z" version="22.0.8" type="github">
   <diagram name="第 1 页" id="OXnYIS6XFq7uYj1K57Al">
-    <mxGraphModel>
+    <mxGraphModel dx="1387" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-1" value="核心概念：胶囊衣柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-4" target="8vn5PsKxSYbtRiuk-UwD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-4" value="服装行业环保需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-6" target="8vn5PsKxSYbtRiuk-UwD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-6" value="减少衣物浪费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-7" target="8vn5PsKxSYbtRiuk-UwD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-7" value="人们衣物管理方式混乱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-13" value="缺乏实际践行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-14" target="8vn5PsKxSYbtRiuk-UwD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-14" value="缺少简单践行指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-15" value="需要具象载体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-18" target="8vn5PsKxSYbtRiuk-UwD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-18" value="需要外在约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-21" value="缺乏实际践行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-15" target="8vn5PsKxSYbtRiuk-UwD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

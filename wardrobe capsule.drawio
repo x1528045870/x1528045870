@@ -1,130 +1,304 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T18:50:46.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nQWTw7gw29gvfY9Q8ADD" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T12:25:19.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KcKw3yQg4hxstgoVMCct" version="22.0.8" type="github">
   <diagram name="第 1 页" id="OXnYIS6XFq7uYj1K57Al">
-    <mxGraphModel dx="1560" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2496" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-1" value="核心概念：胶囊衣柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-1" value="核心概念：胶囊衣柜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-4" target="8vn5PsKxSYbtRiuk-UwD-6">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-4" target="8vn5PsKxSYbtRiuk-UwD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-4" value="服装行业环保需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-4" value="服装行业环保需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-6" target="8vn5PsKxSYbtRiuk-UwD-7">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-6" target="8vn5PsKxSYbtRiuk-UwD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-6" value="减少衣物浪费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-6" value="减少衣物浪费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-7" target="8vn5PsKxSYbtRiuk-UwD-1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-7" target="8vn5PsKxSYbtRiuk-UwD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-7" value="人们衣物管理方式混乱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-7" value="人们衣物管理方式混乱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="210" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-15">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-14">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-18">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-13" target="8vn5PsKxSYbtRiuk-UwD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-13" value="缺乏实际践行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-13" value="缺乏实际践行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="380" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-14" target="8vn5PsKxSYbtRiuk-UwD-21">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-14" target="8vn5PsKxSYbtRiuk-UwD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-14" value="缺少简单践行指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-14" value="缺少简单践行指引" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-15" value="需要具象载体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-15" value="需要具象载体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-18" target="8vn5PsKxSYbtRiuk-UwD-21">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-18" target="8vn5PsKxSYbtRiuk-UwD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-18" value="需要外在约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-18" value="需要外在约束" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-21" value="围绕胶囊衣柜设计带有构建及管理指引的衣柜主体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-21" value="围绕胶囊衣柜设计带有构建及管理指引的衣柜主体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287.5" y="550" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-15" target="8vn5PsKxSYbtRiuk-UwD-21">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-15" target="8vn5PsKxSYbtRiuk-UwD-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-27">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="935" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-27" value="Core concept: Capsule wardrobe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-27" value="Core concept: Capsule wardrobe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-29" target="8vn5PsKxSYbtRiuk-UwD-31">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-29" target="8vn5PsKxSYbtRiuk-UwD-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-29" value="Clothing industry environmental protection needs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-29" value="Clothing industry environmental protection needs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-31" target="8vn5PsKxSYbtRiuk-UwD-33">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-31" target="8vn5PsKxSYbtRiuk-UwD-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-31" value="Reduce clothing waste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-31" value="Reduce clothing waste" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-33" target="8vn5PsKxSYbtRiuk-UwD-27">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-33" target="8vn5PsKxSYbtRiuk-UwD-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-33" value="People&#39;s clothing management is chaotic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-33" value="People&#39;s clothing management is chaotic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="210" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-40">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-39">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-42">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-37" target="8vn5PsKxSYbtRiuk-UwD-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-37" value="Lack of practical practice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-37" value="Lack of practical practice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="380" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-39" target="8vn5PsKxSYbtRiuk-UwD-43">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-39" target="8vn5PsKxSYbtRiuk-UwD-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-39" value="Lack of simple practice guidelines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-39" value="Lack of simple practice guidelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-40" value="A figurative carrier is required" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-40" value="A figurative carrier is required" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-42" target="8vn5PsKxSYbtRiuk-UwD-43">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-42" target="8vn5PsKxSYbtRiuk-UwD-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-42" value="Need external constraints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-42" value="Need external constraints" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-43" value="Design a wardrobe body with construction and management guidelines around the capsule wardrobe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-43" value="Design a wardrobe body with construction and management guidelines around the capsule wardrobe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="560" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vn5PsKxSYbtRiuk-UwD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vn5PsKxSYbtRiuk-UwD-40" target="8vn5PsKxSYbtRiuk-UwD-43">
+        <mxCell id="8vn5PsKxSYbtRiuk-UwD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8vn5PsKxSYbtRiuk-UwD-40" target="8vn5PsKxSYbtRiuk-UwD-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-40" value="核心概念：胶囊衣柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1080" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-42" target="kar0xV5UmphpBmw6J6qn-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-42" value="服装行业环保需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="810" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-44" target="kar0xV5UmphpBmw6J6qn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-44" value="减少衣物浪费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="900" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-46" target="kar0xV5UmphpBmw6J6qn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-46" value="人们衣物管理方式混乱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-50" target="kar0xV5UmphpBmw6J6qn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-50" target="kar0xV5UmphpBmw6J6qn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-50" target="kar0xV5UmphpBmw6J6qn-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-50" value="缺乏实际践行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-52" value="构建难度大，学习成本高，缺少简单构建指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-53" value="理念较为抽象，&lt;br&gt;缺乏具象载体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-55" target="kar0xV5UmphpBmw6J6qn-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-55" value="容易因为缺少管理约束，无法避免冲动性消费行为，致使累积偏差而难以践行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-84" target="kar0xV5UmphpBmw6J6qn-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-84" value="提供一个具有构建指引和管理约束的胶囊衣柜理念具象载体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-52" target="kar0xV5UmphpBmw6J6qn-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="1420" as="sourcePoint" />
+            <mxPoint x="660" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-53" target="kar0xV5UmphpBmw6J6qn-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="1420" as="sourcePoint" />
+            <mxPoint x="660" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-91" target="kar0xV5UmphpBmw6J6qn-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-91" target="kar0xV5UmphpBmw6J6qn-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="1560" />
+              <mxPoint x="205" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-91" value="提供构建指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-92" target="kar0xV5UmphpBmw6J6qn-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-92" value="提供管理约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-84" target="kar0xV5UmphpBmw6J6qn-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="1420" as="sourcePoint" />
+            <mxPoint x="660" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-95" target="kar0xV5UmphpBmw6J6qn-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-95" target="kar0xV5UmphpBmw6J6qn-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-95" value="以衣柜作为胶囊衣柜理念具象载体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-84" target="kar0xV5UmphpBmw6J6qn-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="1420" as="sourcePoint" />
+            <mxPoint x="660" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-98" target="kar0xV5UmphpBmw6J6qn-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-98" value="设计一个带有构建指引和管理约束的衣柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1550" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-106" target="kar0xV5UmphpBmw6J6qn-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-106" value="调研归纳现有构建方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-108" target="kar0xV5UmphpBmw6J6qn-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-108" value="针对性调研衣物类型及相应合理数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-111" target="kar0xV5UmphpBmw6J6qn-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-111" value="调研现有衣柜设计方案及衣柜设计普通需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-115" value="设计简单直观构建指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1500" as="sourcePoint" />
+            <mxPoint x="520" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-120" target="kar0xV5UmphpBmw6J6qn-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-120" value="设计合理管理约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-122" value="得出衣柜设计方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar0xV5UmphpBmw6J6qn-125" target="kar0xV5UmphpBmw6J6qn-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-125" value="完成带有构建指引与管理约束的衣柜设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1830" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar0xV5UmphpBmw6J6qn-127" value="制作原型进行测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1920" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T07:43:59.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IxM12XpNjHSdT44EthFI" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T07:44:58.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0RizKFvv1kEFFL2LErA4" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1560" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,64 +45,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-6" value="夹具下移" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="530" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="505" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-9" target="T3rPNLjUybUNDBLIVq3E-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-9" value="吸管夹具与杯盖挡杆旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="650" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="620" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-11" target="T3rPNLjUybUNDBLIVq3E-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-11" value="夹具上升一小段" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="770" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="730" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-13" target="T3rPNLjUybUNDBLIVq3E-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-13" value="杯盖挡杆与吸管夹具旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="890" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="840" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-15" target="T3rPNLjUybUNDBLIVq3E-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-15" value="夹具下移" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1020" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="960" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-17" target="T3rPNLjUybUNDBLIVq3E-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-17" value="滑台顺时针旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1150" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1080" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-20" target="T3rPNLjUybUNDBLIVq3E-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-20" value="夹具翻转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1310" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-22" target="T3rPNLjUybUNDBLIVq3E-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-22" value="滑台逆时针旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1470" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1300" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-24" target="T3rPNLjUybUNDBLIVq3E-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-24" value="夹具松开至&lt;br&gt;压力传感器&lt;br&gt;检测为0" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1590" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1410" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-26" target="T3rPNLjUybUNDBLIVq3E-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-26" value="滑台上升复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1750" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1520" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-28" value="吸管夹具&lt;br&gt;旋转复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1910" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="1620" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

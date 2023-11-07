@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T07:44:58.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0RizKFvv1kEFFL2LErA4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T07:45:19.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KwfmehUGRD9QNZKi2Rjy" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1560" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,8 +101,14 @@
         <mxCell id="T3rPNLjUybUNDBLIVq3E-26" value="滑台上升复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1520" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="T3rPNLjUybUNDBLIVq3E-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-28" target="T3rPNLjUybUNDBLIVq3E-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-28" value="吸管夹具&lt;br&gt;旋转复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1620" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T3rPNLjUybUNDBLIVq3E-30" value="杯子分离完成" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T12:51:19.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="llDaKXxw6lMz4bit9a-A" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T13:07:19.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FviEcFgdfB9pQV5WPv0X" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1783" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="继续夹紧" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="190" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="T3rPNLjUybUNDBLIVq3E-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +33,12 @@
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-4" target="T3rPNLjUybUNDBLIVq3E-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="440" />
+              <mxPoint x="370" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-4" value="吸管夹具夹紧" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="400" width="100" height="80" as="geometry" />
@@ -42,77 +47,84 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-6" value="夹具下移" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="505" width="100" height="80" as="geometry" />
+          <mxGeometry x="400" y="70" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-9" target="T3rPNLjUybUNDBLIVq3E-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-9" value="吸管夹具与杯盖挡杆旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="620" width="100" height="80" as="geometry" />
+          <mxGeometry x="400" y="185" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-11" target="T3rPNLjUybUNDBLIVq3E-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-11" value="夹具上升一小段" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="730" width="100" height="80" as="geometry" />
+          <mxGeometry x="400" y="295" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-13" target="T3rPNLjUybUNDBLIVq3E-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="890" as="sourcePoint" />
+            <mxPoint x="230" y="890" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="220" y="960" />
-              <mxPoint x="470" y="960" />
-              <mxPoint x="470" y="120" />
+              <mxPoint x="450" y="445" />
+              <mxPoint x="530" y="445" />
+              <mxPoint x="530" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-13" value="杯盖挡杆与吸管夹具旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="840" width="100" height="80" as="geometry" />
+          <mxGeometry x="400" y="405" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-15" target="T3rPNLjUybUNDBLIVq3E-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-15" value="夹具下移" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="80" width="100" height="80" as="geometry" />
+          <mxGeometry x="600" y="70" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-17" target="T3rPNLjUybUNDBLIVq3E-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-17" value="滑台顺时针旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="200" width="100" height="80" as="geometry" />
+          <mxGeometry x="600" y="190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-20" target="T3rPNLjUybUNDBLIVq3E-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-20" value="夹具翻转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="310" width="100" height="80" as="geometry" />
+          <mxGeometry x="600" y="300" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T3rPNLjUybUNDBLIVq3E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-22" target="T3rPNLjUybUNDBLIVq3E-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T3rPNLjUybUNDBLIVq3E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="T3rPNLjUybUNDBLIVq3E-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="450" as="sourcePoint" />
+            <mxPoint x="740" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="451" />
+              <mxPoint x="730" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-22" value="滑台逆时针旋转" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="420" width="100" height="80" as="geometry" />
+          <mxGeometry x="600" y="410" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-24" target="T3rPNLjUybUNDBLIVq3E-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-24" value="夹具松开至&lt;br&gt;压力传感器&lt;br&gt;检测为0" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="530" width="100" height="80" as="geometry" />
+          <mxGeometry x="770" y="70" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-26" target="T3rPNLjUybUNDBLIVq3E-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-26" value="滑台上升复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="640" width="100" height="80" as="geometry" />
+          <mxGeometry x="770" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T3rPNLjUybUNDBLIVq3E-28" target="T3rPNLjUybUNDBLIVq3E-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-28" value="吸管夹具&lt;br&gt;旋转复位" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="740" width="100" height="80" as="geometry" />
+          <mxGeometry x="770" y="280" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T3rPNLjUybUNDBLIVq3E-30" value="杯子分离完成" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
